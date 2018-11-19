@@ -1,0 +1,2 @@
+cd C:\Users\ekate\Desktop\MPI_TSP\x64\Debug
+mpiexec -n 4 MPI_TSP.exe
